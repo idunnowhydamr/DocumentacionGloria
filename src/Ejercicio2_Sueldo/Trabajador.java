@@ -1,8 +1,9 @@
 package Ejercicio2_Sueldo;
 
 /**
- *
  * @author EMANUEL ORTIZ
+ * @author DIEGO MUÑOZ
+ * @author SAMUEL DIOSA
  */
 public class Trabajador {
 

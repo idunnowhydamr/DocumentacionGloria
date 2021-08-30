@@ -8,8 +8,9 @@ package Ejercicio1_Tienda;
 import java.util.Scanner;
 
 /**
- *
  * @author EMANUEL ORTIZ
+ * @author DIEGO MUÑOZ
+ * @author SAMUEL DIOSA
  */
 public class tienda {
 

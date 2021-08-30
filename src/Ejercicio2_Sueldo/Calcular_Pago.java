@@ -8,8 +8,9 @@ package Ejercicio2_Sueldo;
 import java.util.Scanner;
 
 /**
- *
  * @author EMANUEL ORTIZ
+ * @author DIEGO MUÑOZ
+ * @author SAMUEL DIOSA
  */
 public class Calcular_Pago {
 
