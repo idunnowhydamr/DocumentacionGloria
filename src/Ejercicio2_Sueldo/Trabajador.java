@@ -2,11 +2,16 @@ package Ejercicio2_Sueldo;
 
 /**
  * @author EMANUEL ORTIZ
+<<<<<<< HEAD
  * @author DIEGO MUÑOZ
  * @author SAMUEL DIOSA
+=======
+ * @author EMANUEL ORTIZ
+ * @author EMANUEL ORTIZ
+>>>>>>> b01fc2ea270b9607b7ebc83a207d1aed2fa3f3eb
  */
 public class Trabajador {
-
+// Se crean las variables que necesitarán en el codigo.
     private String nombre; 
     private String estado_civil;
     private String sexo;
@@ -14,7 +19,7 @@ public class Trabajador {
     private Double bonificacio;
     private Double descuento;
     private Double pago_total;
-
+// Se
     public Trabajador(String nombre, String estado_civil, String sexo, Double sueldo, Double bonificacio, Double descuento, Double pago_total) {
         this.nombre = nombre;
         this.estado_civil = estado_civil;
