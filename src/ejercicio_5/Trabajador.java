@@ -1,42 +1,44 @@
 package ejercicio_5;
 
 /**
- *
- * @author ASUS
+ * Se crean las clases y los metodos que se usarán en el codigo del trabajador.
+ * @author EMANUEL ORTIZ
+ * @author DIEGO MUÑOZ
+ * @author SAMUEL DIOSA 
  */
 public class Trabajador {
-
+    // Se crea las clases que seran usadas para guardar los datos.
     private String nombre;
     private double sueldo;
     private String categoria;
     private String condicion;
-
+       
     public Trabajador() {
     }
-
+    // Se crea el constructor del trabajador con las clases.
     public Trabajador(String nombre, double sueldo, String categoria, String condicion) {
         this.nombre = nombre;
         this.sueldo = sueldo;
         this.categoria = categoria;
         this.condicion = condicion;
     }
-
+    // Este metodo sirve para mostrar la variable nombre.
     public String getNombre() {
         return nombre;
     }
-
+    // Con este metodo se puede modificar el nombre.
     public void setNombre(String nombre) {
         this.nombre = nombre;
     }
-
+    // Con este metodo se puede mostrar el sueldo.
     public double getSueldo() {
         return sueldo;
     }
-
+    // Con este metodo se puede modificar el sueldo.
     public void setSueldo(double sueldo) {
         this.sueldo = sueldo;
     }
-
+    // Se crea este metodo que se usa para calcular la bonificación dependiendo de la categoria y la condición.
     public double bonificacionTrabajador() {
         double bonificacion = 0;
         switch (condicion) {
@@ -73,7 +75,7 @@ public class Trabajador {
         }
         return bonificacion;
     }
-
+     // Se crea este metodo para calcular el descuento del trabajador.
     public double descuentoTrabajador() {
         double descuento = 0;
         switch (condicion) {
@@ -90,7 +92,7 @@ public class Trabajador {
         }
         return descuento;
     }
-    
+    // Se crea este metodo para calcular el pago total.
     public double pagoTotal(){
         return sueldo + bonificacionTrabajador() - descuentoTrabajador();
  }
