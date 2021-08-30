@@ -1,3 +1,6 @@
+/** Esta declaracionde variables funciona para guardar los datos que seran
+ ingresados al momneto de hacer la compra.
+ */
 
 package Ejercicio1_Tienda;
         

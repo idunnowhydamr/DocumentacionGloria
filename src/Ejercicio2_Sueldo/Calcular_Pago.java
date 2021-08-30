@@ -1,16 +1,20 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
-package Ejercicio2_Sueldo;
 
+package Ejercicio2_Sueldo;
+// Se importa el escanner para pedir datos por teclado.
 import java.util.Scanner;
+
 
 /**
  * @author EMANUEL ORTIZ
  * @author DIEGO MUÑOZ
  * @author SAMUEL DIOSA
+/** 
+ * Este Algoritmo funciona para calcular el pago total de un trabajador 
+ * dependiendo si es casado o soltero o si es hombre o mujer.
+ * además se calcula también la bonificación.
+  * @author EMANUEL ORTIZ
+  * @author DIEGO MUÑOZ
+  * @author SAMUEL DIOSA
  */
 public class Calcular_Pago {
 

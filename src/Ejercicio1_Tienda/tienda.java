@@ -1,13 +1,12 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
+
 package Ejercicio1_Tienda;
 // Se importa el escaner para pedir por teclado 
 import java.util.Scanner;
 
-/**
+
+
+/** Este codigo funciona para mostrar  el importe del descuento y el 
+ * importe a pagar por la compra dependiendo de la cantidad del producto comprado.
  * @author EMANUEL ORTIZ
  * @author DIEGO MUÑOZ
  * @author SAMUEL DIOSA
