@@ -1,13 +1,11 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
+
 package Ejercicio14_PromedioI;
 
+// Se importa el escaner para pedir por teclado 
 import java.util.Scanner;
 
 /**
+ * Calcula el promedio de 4 experimentos, cada uno consiste en 6 resultados de prueba.
  * @author EMANUEL ORTIZ
  * @author DIEGO MUÑOZ
  * @author SAMUEL DIOSA
@@ -16,6 +14,7 @@ public class PromedioDatosI {
 
     /**
      * @param args the command line arguments
+     * Muetsra el promedio de los experimentos.
      */
     public static void main(String[] args) {
        //Intancia para escaner

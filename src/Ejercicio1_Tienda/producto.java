@@ -1,14 +1,14 @@
 
 package Ejercicio1_Tienda;
-<<<<<<< HEAD
+        
 /**
  * @author EMANUEL ORTIZ
  * @author DIEGO MUÑOZ
  * @author SAMUEL DIOSA
  */
-=======
+
 // Se crean las variables que se usaran en el codigo.
->>>>>>> b01fc2ea270b9607b7ebc83a207d1aed2fa3f3eb
+        
 public class producto {
     private int codigo;
     private int precioUnitario;

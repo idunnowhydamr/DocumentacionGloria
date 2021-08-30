@@ -18,6 +18,7 @@ public class tienda {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
+        //Intancia para escaner
         Scanner leer = new Scanner(System.in);
         // Se crean los vectores para los productos.
         producto p[] = new producto[3];
