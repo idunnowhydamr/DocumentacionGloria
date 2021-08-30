@@ -1,10 +1,21 @@
 package Ejercicio2_Sueldo;
 
 /**
+<<<<<<< HEAD
+ * @author EMANUEL ORTIZ
+<<<<<<< HEAD
+ * @author DIEGO MUÑOZ
+ * @author SAMUEL DIOSA
+=======
+ * @author EMANUEL ORTIZ
+ * @author EMANUEL ORTIZ
+>>>>>>> b01fc2ea270b9607b7ebc83a207d1aed2fa3f3eb
+=======
  * Aqui se declaran las variables que se usaran al momento de ingresar los datos del trabajador.
  * @author EMANUEL ORTIZ
  * @author DIEGO MUÑOZ
  * @author SAMUEL DIOSA
+>>>>>>> a40a1f25a5e76d123f56bfd85e85214246f0cdca
  */
 public class Trabajador {
 // Se crean las variables que necesitarán en el codigo para el trabajador.

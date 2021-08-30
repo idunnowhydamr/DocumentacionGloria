@@ -3,7 +3,15 @@
  */
 
 package Ejercicio1_Tienda;
+        
+/**
+ * @author EMANUEL ORTIZ
+ * @author DIEGO MUÑOZ
+ * @author SAMUEL DIOSA
+ */
+
 // Se crean las variables que se usaran en el codigo.
+        
 public class producto {
     private int codigo;
     private int precioUnitario;
