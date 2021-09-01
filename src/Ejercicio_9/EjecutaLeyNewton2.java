@@ -1,11 +1,9 @@
-//REALIZA CALCULOS CON LA SEGUNDA LEY NEWTON, calcular sea la fuerza, masa, aceleracion.
 
 package Ejercicio_9;
 // Se importa el escaner para pedir datos por el teclado.
 import java.util.Scanner;
 /**
  *  Este codigo podemos realizar la ley de newton donde se implica la masa, la fuerza y la aceleración.
- * 
  * @author EMANUEL ORTIZ
  * @author DIEGO MUÑOZ
  * @author SAMUEL DIOSA

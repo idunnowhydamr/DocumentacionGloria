@@ -1,4 +1,3 @@
-//CLIENTE CALCULO 
 
 package Ejercicio_8;
 // Se importa el escaner para pedir datos por teclado.

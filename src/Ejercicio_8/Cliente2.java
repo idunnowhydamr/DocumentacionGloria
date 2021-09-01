@@ -1,13 +1,13 @@
-
 package Ejercicio_8;
 /**
- * 
+ * Se crea la base del vendedor.
  * @author EMANUEL ORTIZ
  * @author DIEGO MUÑOZ
  * @author SAMUEL DIOSA
  */
-// Se crean las clases que usaremos para guardar los datos que necesitamos.
+
 class Cliente2 {
+    // Se crean las clases que usaremos para guardar los datos que necesitamos.
      private String nombreClie;
      private int tipoClie, cantidad;
      private float precioUni, subTotal, descuento, netoPagar; 
@@ -84,5 +84,4 @@ class Cliente2 {
         return netoPagar;
      }
 }
-
 

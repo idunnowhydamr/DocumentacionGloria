@@ -1,16 +1,16 @@
 
 package Ejercicio_7;
 
+
 /**
- * en este codigo  podemos ver las variables para pode guardar los datos del alumnoy también
+ * en este codigo  podemos ver las variables para pode guardar los datos del alumno y también
  * podemos hacer las operaciones necesarias.
  * @author EMANUEL ORTIZ
  * @author DIEGO MUÑOZ
  * @author SAMUEL DIOSA
  */
-class Alumno4 
-{
-    // Se crean las clases que usaremos para poder sacar la informacio del alumno
+public class Alumno4 {
+      // Se crean las clases que usaremos para poder sacar la informacio del alumno
      private String nombreAlum;
      private float calif1;
      private float calif2;
@@ -73,5 +73,3 @@ class Alumno4
         throw new UnsupportedOperationException("Not supported yet."); 
     }
 }
-
-

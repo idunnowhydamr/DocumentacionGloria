@@ -4,7 +4,7 @@ package Ejercicio_3;
 import java.util.Scanner;
 
 /**
- *  Con este codigo podemos calcular el pago total del trabajador dependiendo de la condición y la categoria, 
+ * Con este codigo podemos calcular el pago total del trabajador dependiendo de la condición y la categoria, 
  * además se mostrará informe que contendrá el pago total,el descuento, la bonificación y el nombre.
  * @author EMANUEL ORTIZ
  * @author DIEGO MUÑOZ

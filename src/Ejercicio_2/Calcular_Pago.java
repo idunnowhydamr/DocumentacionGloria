@@ -4,14 +4,10 @@ package Ejercicio_2;
 import java.util.Scanner;
 
 
-/**
- * @author EMANUEL ORTIZ
- * @author DIEGO MUÑOZ
- * @author SAMUEL DIOSA
 /** 
- * Este Algoritmo funciona para calcular el pago total de un trabajador 
- * dependiendo si es casado o soltero o si es hombre o mujer.
- * además se calcula también la bonificación.
+  * Este Algoritmo funciona para calcular el pago total de un trabajador 
+  * dependiendo si es casado o soltero o si es hombre o mujer.
+  * además se calcula también la bonificación.
   * @author EMANUEL ORTIZ
   * @author DIEGO MUÑOZ
   * @author SAMUEL DIOSA

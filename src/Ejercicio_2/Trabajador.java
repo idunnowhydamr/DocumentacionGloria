@@ -1,16 +1,11 @@
 package Ejercicio_2;
 
 /**
-
- * @author EMANUEL ORTIZ
- * @author DIEGO MUÑOZ
- * @author SAMUEL DIOSA
- * @author EMANUEL ORTIZ
- * @author EMANUEL ORTIZ
  * Aqui se declaran las variables que se usaran al momento de ingresar los datos del trabajador.
  * @author EMANUEL ORTIZ
  * @author DIEGO MUÑOZ
  * @author SAMUEL DIOSA
+ * 
  */
 public class Trabajador {
 // Se crean las variables que necesitarán en el codigo para el trabajador.

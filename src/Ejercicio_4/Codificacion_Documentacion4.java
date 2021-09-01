@@ -1,14 +1,10 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
+
 package Ejercicio_4;
 // Se importa el escaner para pedir datos por el teclado.
 import java.util.Scanner;
 
 /**
- *
+ * En esta pantalla se va a crear y mostrar lo que se intancie de la clase estudiante.
  * @author EMANUEL ORTIZ
  * @author DIEGO MUÑOZ
  * @author SAMUEL DIOSA 

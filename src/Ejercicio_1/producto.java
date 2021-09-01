@@ -1,10 +1,8 @@
-/** Esta declaracionde variables funciona para guardar los datos que seran
- ingresados al momneto de hacer la compra.
- */
 
 package Ejercicio_1;
         
 /**
+ * Es la base para crear todo producto.
  * @author EMANUEL ORTIZ
  * @author DIEGO MUÑOZ
  * @author SAMUEL DIOSA

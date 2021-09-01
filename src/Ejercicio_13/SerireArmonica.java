@@ -4,6 +4,7 @@ package Ejercicio_13;
 import java.util.Scanner;
 
 /**
+ * Realiza la serie armonica y muestra el resultado en pantalla.
  * @author EMANUEL ORTIZ
  * @author DIEGO MUÑOZ
  * @author SAMUEL DIOSA

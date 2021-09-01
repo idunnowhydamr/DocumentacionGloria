@@ -3,7 +3,6 @@ package Ejercicio_9;
 
 /**
  *  En este codigo se crean las variables que usaremos, además que realizamos los calculos necesarios. 
- * 
  * @author EMANUEL ORTIZ
  * @author DIEGO MUÑOZ
  * @author SAMUEL DIOSA
